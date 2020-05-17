@@ -1,0 +1,47 @@
+.search-inputdiv {
+    background-color: lightgrey;
+    width: 100%;
+    height: 900px;
+
+}
+.search-inputBox {
+    height: 30px;
+    width: 440px;
+    border-radius: 7px;
+    top: 64px;
+    position: relative;
+    left: 36px;
+    font-size: large;
+}
+.search-image {
+    height: 33px;
+    top: 72px;
+    left: 9px;
+    position: relative;
+}
+.search-result{
+    position: relative;
+    top: 65px;
+    left: 37px;
+    height: 244px;
+    overflow-x: scroll;
+    width: 450px;
+    background-color: white;
+    outline-style:none;
+    box-shadow:none; 
+}
+.search-border {
+    margin: 2px 2px 8px 2px;
+}
+.search-element:hover {
+    background-color: grey;
+ }
+ .search-active {
+    background-color: grey;
+ }
+ .search-cross {
+    position: relative;
+    height: 27px;
+    top: 72px;
+    left: 8px;
+ }
