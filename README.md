@@ -1,7 +1,7 @@
 # Search
 Search Field
 
-download src the folder.
+download the src folder.
 npm install
 npm start.
 
